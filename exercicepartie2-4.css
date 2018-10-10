@@ -1,0 +1,51 @@
+body{
+    background-color: #dcd6f7;
+    font-family: "Raleway";
+}
+
+.exercice{
+  color:   #272932;
+  background-color: #c62e65;
+  display: block;
+  width: 100%;
+  height: 140px;
+  text-align: center;
+  padding-top: 15px;
+}
+
+p{ font-size: 18px; }
+
+h1{ font-size: 30px; }
+
+.row{
+  color: #c62e65;
+  background-color: #d8a47f;
+  display: block;
+  width: 100%;
+  height: 80px;
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 15px;
+    font-size: 18px;
+}
+
+label{
+  display: block;
+  margin-left: auto;
+}
+
+#button{
+display:block;
+width:150px;
+line-height:30px;
+color:white;
+background-color: #c62e65;
+margin-top: 10px;
+font-family: "Raleway";
+margin-left: auto;
+margin-right: auto;
+}
+#button:hover {
+  background-color: white;
+  color : #272932;
+}
